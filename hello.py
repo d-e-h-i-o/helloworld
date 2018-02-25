@@ -1,4 +1,3 @@
-s a file in a new branch because we're developing a new function
-dehio du alte oma
+s a file
 
-ältere oma
+heey na das ist der neue code, hoffentlich ist er nice wie der alte
